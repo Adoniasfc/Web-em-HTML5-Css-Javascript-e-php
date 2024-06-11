@@ -4,12 +4,12 @@
     <title> A primeira página </title>
   </head>
   <body>
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-		Donec congue nisl a magna tempus dignissim. 
-		Curabitur eget porta lacus, eu bibendum leo. 
-		Mauris enim lor em, convallis eget sodales ullamcorper, semper eu purus. 
-		Aenean vitae varius ex. Maecenas sagittis diam quis tincidunt blandit. 
-		Donec id egestas nisl. Nullam sollicitudin arcu quis risus dignissim eleifend. 
-		Morbi ipsum augue, aliquet eget ante ac, feugiat interdum nisl.	
+	<h1>
+	O primeiro documento em HTML
+	</h1>
+	<p>
+	Como o primeiro documento vou atualizar Semanalmente 
+	 quando for pequenas alteraçao vou separar por arquivos
+	</p>
   </body>
 </html
