@@ -3,13 +3,13 @@
   <head>
     <title> A primeira página </title>
   </head>
-  <body>
-	<h1>
-	O primeiro documento em HTML
-	</h1>
-	<p>
-	Como o primeiro documento vou atualizar Semanalmente 
-	 quando for pequenas alteraçao vou separar por arquivos
-	</p>
-  </body>
+ <body>
+	<h1>O primeiro documento em HTML</h1>
+	<p>Como o primeiro documento vou atualizar Semanalmente 
+	 quando for pequenas alteraçao vou separar por arquivos</p>
+	<hr/>
+
+	<h2><i> Este texto está no formato itálico</i></h2>
+	<p>1º Semana</p> 
+</body>
 </html
