@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Estilizando uma página HTML</title>
+	<style>
+	#text-container{
+		margin:0 auto;
+		background:#ccc;
+		color:red;
+		font-size:18px;
+	}
+	</style>
+</head>
+<body>
+<div class="container">
+	<h1>Texto estilizado</h1>
+	<p id="text-container"><strong>
+	Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+	In euismod nibh sit amet justo cursus, eget posuere arcu pharetra. 
+	Donec vestibulum, lectus non consectetur condimentum, ex purus 
+	luctus lectus, at lacinia augue sem euismod diam. 
+	Aliquam aliquam accumsan varius. Fusce facilisis sollicitudin tortor. 
+	Curabitur aliquet bibendum ligula, vitae porta nunc ornare sed. 
+	Aliquam dapibus scelerisque turpis, eget hendrerit turpis elementum in. 
+	Aliquam accumsan sit amet nisi euismod imperdiet. 
+	Integer non pellentesque ante, nec gravida leo.
+	</strong></p>
+</div>
+</body>
+</html>
