@@ -12,6 +12,8 @@
 @font-face {
     font-family: "Graduate";
     src: url(Graduate-Regular.woff2) format("woff2");
+    font-weight: bold;
+    font-style: normal;
 }
 #primeiro-conteiner{
     font-family: HoltwoodOneSC;
