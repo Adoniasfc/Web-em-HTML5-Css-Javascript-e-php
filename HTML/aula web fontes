@@ -1,31 +1,32 @@
 <!DOCTYPE html>
-
 <html>
 <head>
-<style> 
-@font-face {
-    font-family:"HoltwoodOneSC";
-    src: url(HoltwoodOneSC-Regular.woff2) format("woff2");
-    font-weight: bold;
-    font-style: normal;
-}
-@font-face {
-    font-family: "Graduate";
-    src: url(Graduate-Regular.woff2) format("woff2");
-    font-weight: bold;
-    font-style: normal;
-}
-#primeiro-conteiner{
-    font-family: HoltwoodOneSC;
-}
-#segundo-conteiner{
-    font-family: Graduate;
-}
-</style>
+	<style>
+		@font-face {
+			font-family:"Graduate-Regular";
+			src: url("Fontes/Graduate-Regular.woff2") format("woff2");
+			fonte-weigth: bold;
+			font-style: normal;
+        }
+		@font-face{
+			font-family:"HoltwoodOneSC-Regular";
+			src: url("Fontes/HoltwoodOneSC-Regular.woff2");
+			font-weight: normal;
+			font-style: normal;
+		}
+		
+		#primeiro-container{
+		font-family:Graduate-Regular;
+		}
+			
+		#segundo-container{
+		font-family: HoltwoodOneSC-Regular;
+		}
+	</style>
 </head>
 <body>
-    <h1> Usando Web Fontes </h1>
-        <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+		<h1 id="primeiro-container">Usando Web Fontes</h1>
+			<p id="segundo-container"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 	In euismod nibh sit amet justo cursus, eget posuere arcu pharetra. 
 	Donec vestibulum, lectus non consectetur condimentum, ex purus 
 	luctus lectus, at lacinia augue sem euismod diam.</p>
